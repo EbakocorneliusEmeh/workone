@@ -9,7 +9,7 @@ span {
 }
 
 .one {
-  background-color: rgb(245, 245, 245);
+  background-color: #f5f5f5;
   padding: 1rem;
   margin: 1rem;
   box-shadow: 2px 4px #000;
@@ -313,7 +313,7 @@ h1 {
   background-image: url("../image/bakkkkk.jpg");
   margin-bottom: 40rem;
   padding: 50px;
-  margin: 25px;
+  /* margin: 25px; */
 }
 
 .pls {
