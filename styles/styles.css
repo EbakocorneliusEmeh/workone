@@ -118,18 +118,14 @@ h1 {
   justify-self: center;
 }
 
-.two {
-  margin-bottom: 2rem;
-}
-
 .sec-two {
-  background-color: #ffff00;
+  background-color: #ff0;
   display: flex;
   width: 100%;
 }
 
 .bee {
-  background-color: #ffffff;
+  background-color: #fff;
   margin: 1rem;
 }
 
@@ -151,7 +147,7 @@ h1 {
 
 .monday {
   border-radius: 1rem;
-  background-color: #00ffff;
+  background-color: #0ff;
 }
 
 .mick {
@@ -333,7 +329,6 @@ h1 {
   display: flex;
   text-align: center;
   justify-items: center;
-  text-align: center;
   margin-top: 2rem;
 }
 
